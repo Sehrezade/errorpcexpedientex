@@ -1,0 +1,584 @@
+RELICCOH2 started at 2019-04-25 20:42
+OS Win 10.0 (sp0.0) x64, 16318MB Physical Memory, 12272 Physical Available, 4095 Virtual Total, 3907 Virtual Available, 1856 Page file.
+RUN-OPTIONS []
+WORKING-DIR [F:\Steam oficial\steamapps\common\Company of Heroes 2]
+USER [Sherezade]
+LOCALE [ESN]
+
+20:42:38.12   GAME -- Current Steam name is [Tuexnovia]
+20:42:38.12   GAME -- steam returned language 'spanish'
+20:42:38.13   Primary CPU is a 3696MHz [Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz]
+20:42:38.13   Architecture [0], Level [6], Revision [40458].
+20:42:38.13   12 logical processor(s) detected.
+20:42:38.13   6 physical processor(s) detected.
+20:42:38.13   1 processor(s) nodes detected.
+20:42:38.13   MATHBOX -- Version=6, Mode=SSE
+20:42:38.13   Using [C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\] as base writable folder
+20:42:38.13   Game -- System temp path is [C:\Users\SHEREZ~1\AppData\Local\Temp\]
+20:42:38.13   MOD -- Initializing mod 'RelicCoH2'.
+20:42:38.16   ARC -- CoH2\Archives\Data.sga 934867443 B [ID:3f9691c3371ee5335e5869d3a0d93406] [Ver:0878d9106acdf3af40397c0bbd1d3b36] [Sig:11962531175086863863]
+20:42:38.18   ARC -- CoH2\Archives\Sound.sga 228830651 B [ID:9246d5cc8bf2de31ead8251719e1e576] [Ver:a62c90bd9b13a9d8ec24fd92726e5a27] [Sig:9159029397235684367]
+20:42:38.19   ARC -- CoH2\Archives\SoundXP1.sga 21693342 B [ID:9246d5cc8bf2de31ead8251719e1e576] [Ver:9d448119eea20f8d46d7ca91ec744b64] [Sig:11623608031005062619]
+20:42:38.19   ARC -- CoH2\Archives\ArtArmies.sga 57561496 B [ID:d4ab83d0ba0afd4850bbc4c68b0de2be] [Ver:6a7adf9c6b782d562a7ce98505a6212b] [Sig:307359238297693783]
+20:42:38.20   ARC -- CoH2\Archives\ArtEnvironment.sga 1261847418 B [ID:4f6a38d9c40d3e11956b769b00d6e689] [Ver:50030ee3ee413a65c8d3d0364aa34541] [Sig:935373842154107406]
+20:42:38.21   ARC -- CoH2\Archives\ArtGermanEF.sga 2933248415 B [ID:fb66b7917c474a33e86456a40dbf2c3a] [Ver:e909877c7b4e2d605c8e49f262f3e7f2] [Sig:3240392060855148107]
+20:42:38.21   ARC -- CoH2\Archives\ArtSovietEF.sga 3874094419 B [ID:b0e52e8ac61727b4a5101571c7e7110f] [Ver:976c9a69b3294977d70e89da4aa778b4] [Sig:5020970475956725480]
+20:42:38.22   ARC -- CoH2\Archives\ArtAEF.sga 1140832185 B [ID:fd7aa5f8e53fa6a558246d44bedd4cfe] [Ver:617a55cd2f871b32d4124bd456052ca7] [Sig:3313722928638974782]
+20:42:38.22   ARC -- CoH2\Archives\ArtAEFSkins.sga 4286146719 B [ID:ab441482fcc7ddcd25e040085b81d68f] [Ver:5ba6637defd1e13e8211c8a92d80a917] [Sig:14343080035008738518]
+20:42:38.23   ARC -- CoH2\Archives\ArtWestGerman.sga 3677233660 B [ID:9ff4d0503a24bdca4dbe1104f7ff37f2] [Ver:315bae389d6025b8ac05fb88278dd166] [Sig:6062728216243966232]
+20:42:38.23   ARC -- CoH2\Archives\SoundXP2.sga 199001 B [ID:9246d5cc8bf2de31ead8251719e1e576] [Ver:f366468fa94af97a5c1162b6e2d15048] [Sig:10774136334522067768]
+20:42:38.24   ARC -- CoH2\Archives\ArtBritish.sga 1881461583 B [ID:391ad53485bf023c2e0f5d508470e0ef] [Ver:cb2c161333db0ed9212ba949c0890689] [Sig:12617967752288510203]
+20:42:38.24   Archive 'CoH2\Archives\Autotest' is missing! Skipping.
+20:42:38.24   ARC -- CoH2\Archives\MPScenarios.sga 1632196527 B [ID:f361bb544d19f9ad0702abba3ec58d36] [Ver:38a8608969d2e5d84c96a26dc9d9eb42] [Sig:9135391577228088548]
+20:42:38.25   ARC -- CoH2\Archives\MPXP1Scenarios.sga 269107424 B [ID:8a2c949c3e230925cf294a12321e9211] [Ver:6e00723cbbcabcae99bb70db9300fd0c] [Sig:13611089875024519889]
+20:42:38.25   ARC -- CoH2\Archives\SPScenariosEF.sga 340823046 B [ID:4a2cbc10218aac5e8be4aa494ef1f3ca] [Ver:0d44f2e4ee3f7b9265e7b6ecb3b825a1] [Sig:6605551588555955872]
+20:42:38.26   ARC -- CoH2\Archives\TOWScenarios.sga 202972788 B [ID:035c09486ef2563f69e781962b46c2e4] [Ver:4af5f9991f7439515903c4e823eb6d5b] [Sig:15664664613644561291]
+20:42:38.27   ARC -- CoH2\Archives\DLC1Scenarios.sga 57382901 B [ID:afbdc084e5c98c193cae218ca8e468c8] [Ver:835075f6a5f1e80e222870afaa2dba63] [Sig:2003273899295354318]
+20:42:38.28   ARC -- CoH2\Archives\DLC2Scenarios.sga 77535344 B [ID:61eefbc53442d10441d77bbd23b1bc36] [Ver:2a89f0387fad0a4511b4cff6e31dad70] [Sig:7602096073382315002]
+20:42:38.28   ARC -- CoH2\Archives\DLC3Scenarios.sga 47253904 B [ID:48c74893c09599be2d61b911563bcab9] [Ver:0d32db24ed4fe982dd70a7b408127123] [Sig:14104588085748238941]
+20:42:38.28   Archive 'CoH2\Archives\SPScenariosAA' is missing! Skipping.
+20:42:38.29   ARC -- CoH2\Archives\UIHigh.sga 69958234 B [ID:097c8294ec5ed0723b16d8e06f606718] [Ver:f119f13dfa223aa423e1818946ed1ec1] [Sig:5351253395574199171]
+20:42:38.30   ARC -- CoH2\Archives\ArtHigh.sga 315847340 B [ID:d3bf60728712cf58911b326bde74de8f] [Ver:847622c90833749464691f53f5551808] [Sig:5409437059135526689]
+20:42:38.31   ARC -- CoH2\Archives\ArtHighXP1.sga 38526653 B [ID:d3bf60728712cf58911b326bde74de8f] [Ver:492a236c5c9b8d70491763cec03b4772] [Sig:3557666920090964639]
+20:42:38.31   ARC -- CoH2\Archives\ArtHighXP2.sga 19687049 B [ID:d3bf60728712cf58911b326bde74de8f] [Ver:06478f3805ceebd8fb602339a6ba9c37] [Sig:15122607373192102247]
+20:42:38.32   ARC -- CoH2\Archives\SoundHigh.sga 1031467146 B [ID:3730f31a8f731e6cbc26a00244f571cc] [Ver:a12e581cdaa369cbc269c9ecce6390f7] [Sig:18214921420031089867]
+20:42:38.33   ARC -- CoH2\Archives\SoundHighXP1.sga 89990965 B [ID:3730f31a8f731e6cbc26a00244f571cc] [Ver:1cc1bf361529d9db2191610baac4fa3e] [Sig:5801087545420265863]
+20:42:38.34   ARC -- CoH2\Archives\SoundHighXP2.sga 37088744 B [ID:3730f31a8f731e6cbc26a00244f571cc] [Ver:4cfa3cc7075c50a459ea894027042002] [Sig:10443542780852497330]
+20:42:38.35   ARC -- CoH2\Archives\SoundSpeechSpanish.sga 702584141 B [ID:8c463ff29eef5add39d20a40f890bbb0] [Ver:6261fb63a28cf79e883276ba8ff9dc71] [Sig:7980205794241787619]
+20:42:38.36   ARC -- CoH2\Archives\SoundSPSpeechEFSpanish.sga 158613130 B [ID:e2a5dee06eab03ceb72863ce17e54d34] [Ver:4fd0ad2b8c23cec104d11f1c21b5e76d] [Sig:14814878604104644870]
+20:42:38.37   ARC -- CoH2\Archives\SoundSpeechDLCSpanish.sga 33589135 B [ID:f4b528474f7bce8606bcff2f020eb4a2] [Ver:eda0abe7ac782e5d4e842defc156b18e] [Sig:2820275469101456738]
+20:42:38.39   ARC -- CoH2\Archives\SoundSpeechXP1Spanish.sga 727728993 B [ID:2ea2453b6791d2f29c174e0d82195e6a] [Ver:dc3d1a19d67100f842e4ed89d4c1b68d] [Sig:18166653656738367434]
+20:42:38.39   Archive 'CoH2\Archives\SoundSpeechAASpanish' is missing! Skipping.
+20:42:38.40   ARC -- CoH2\Archives\SoundSpeechXP2Spanish.sga 184935206 B [ID:29e773fea9a33d5da23b8bee23e09c90] [Ver:cec48503a5e099815056ae17a79f08b6] [Sig:16406871474719658477]
+20:42:38.42   ARC -- CoH2\Archives\AttribArchive.sga 27968340 B [ID:abe931d3adfbab4e871d2dacd29916d3] [Ver:9a9d1f3a15ae13ba221812f59c286b86] [Sig:17873826844024183351]
+20:42:38.45   GAME -- Resetting fp control word.
+20:42:39.95   WW2Mod -- PropertyBagManager Loaded in 1.498000s
+20:42:39.96   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\202809730.sga 22015758 B [ID:4b8f44093e82dc3c8f143cd39c743790] [Ver:e235dd461bc463797b7447c2a0639d73] [Sig:0]
+20:42:39.96   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\202868305.sga 12480973 B [ID:bc63df99cfdcc128acb9d0da243019f6] [Ver:4674f3fd6ecbfbcc39255ada4577f52e] [Sig:0]
+20:42:39.97   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\202943684.sga 20327217 B [ID:dee29394869dcf847567ca71773a9171] [Ver:80a3c68e22b26721cff4e894c791e636] [Sig:0]
+20:42:39.97   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\205422940.sga 8955373 B [ID:e22087624721793ce2f068507e66be2b] [Ver:f8d851d2d51df9410bbf3ef827152b7e] [Sig:0]
+20:42:39.98   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\207274972.sga 14592954 B [ID:7bba88e7708bfec8314f14b1d17670ed] [Ver:23043c9ac618caebb924af19be22b650] [Sig:0]
+20:42:39.99   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\207653421.sga 17444268 B [ID:4250c618c319ef71e9e584e83ba4c9ca] [Ver:de3c88d93c821a41e2fa1ed29663594a] [Sig:0]
+20:42:39.99   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\215411019.sga 4430893 B [ID:8e06915d5f5d4f8754f51892d884c477] [Ver:541279ea333ed6fde7d59c0419f892a3] [Sig:0]
+20:42:40.00   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\224723827.sga 5714629 B [ID:da889ddb6e18370f642da3d0a3ac660c] [Ver:be73c367047dd4f058e4960698373c45] [Sig:0]
+20:42:40.00   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\227830353.sga 12512157 B [ID:9d9c59d2d82e8ef766efd5c16415a111] [Ver:49db346ff87577adcae60605c8fbdd7c] [Sig:0]
+20:42:40.01   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\228265365.sga 9990751 B [ID:c8059e2ec7419f590e79d7f1b774bfe6] [Ver:88b7c6d0e42b9769db61ae04506a0c76] [Sig:0]
+20:42:40.01   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\229936670.sga 12796766 B [ID:cfee616ce05ce454ef4b7a09d3d1cfef] [Ver:b78d8dd06100ddfff157ebadc67babe5] [Sig:0]
+20:42:40.01   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\231495020.sga 9543967 B [ID:a1c215a601bccffe190bfa0d13e12a10] [Ver:c2d6adaa482623a9334ca1aad7f19269] [Sig:0]
+20:42:40.02   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\234533580.sga 3476039 B [ID:274d02ec81d1dbf181246ec80bb4afb2] [Ver:8c168527aee4cacda0fb8428915b1478] [Sig:0]
+20:42:40.03   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\242541871.sga 15171421 B [ID:206ec76e159665613b45021ae1b1bfd9] [Ver:c1560b2583b7c71ccea949f75c69f3b2] [Sig:0]
+20:42:40.03   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\251851380.sga 14513190 B [ID:eae63f62fdfd30eeca197e441e453964] [Ver:a363bcae46ba5d446c595a5952b10036] [Sig:0]
+20:42:40.04   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\260316096.sga 7835607 B [ID:9175447493477cfb577f429200290fcd] [Ver:b581ed73ec82bf4f68a7c9c9842b6e0b] [Sig:0]
+20:42:40.04   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\278869104.sga 12510284 B [ID:f92673a0c96d7aabc49f5c47638e616f] [Ver:ff5015aabf04b6493309ae89d35a7b8e] [Sig:0]
+20:42:40.06   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\283180630.sga 2467631 B [ID:e3aa1d5bf4cbc3b35692ecdc29f72fd7] [Ver:2c3eb1b849562b9e201e142db3ba672b] [Sig:0]
+20:42:40.06   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\288908351.sga 9475537 B [ID:e03f0adc0e472a5589b4eef080ca48e7] [Ver:1cf531d516e4e94a2344e8902c795526] [Sig:0]
+20:42:40.07   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\290839615.sga 11029613 B [ID:a6772c04f60825dbe890641a4d75a3d3] [Ver:8940bc8a7d02fdf211da460e92ea972c] [Sig:0]
+20:42:40.08   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\317825400.sga 17907839 B [ID:4a63b788e0b17637587d36f553da6a97] [Ver:d844797e32f9a1b6afe4ebc1cc102623] [Sig:0]
+20:42:40.08   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\318824536.sga 12769829 B [ID:e7bb23d75dc8cf9b44c490faf7168f37] [Ver:bc954add4eac3ff57d42c66b52aeee70] [Sig:0]
+20:42:40.09   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\326383830.sga 12896711 B [ID:61310903ca6f147f9a6ee3204c446212] [Ver:5e613c4208aa3760694b09c1bee8a40e] [Sig:0]
+20:42:40.10   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\327558645.sga 4266516 B [ID:a7108963bcf2708aed307353cdc35a90] [Ver:99ecbb226ef0f68b06999964fc8feb55] [Sig:0]
+20:42:40.10   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\327677373.sga 10901168 B [ID:d6d519aad1ff17852d3be7a875954dad] [Ver:73e8c9215eab3c030ec06cab61a988d4] [Sig:0]
+20:42:40.11   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\329410911.sga 16978922 B [ID:b6ebb5584f4fe55bc69f5be61d7d34aa] [Ver:9b8ee6678467b3397c580320f14f7b80] [Sig:0]
+20:42:40.11   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\329484634.sga 14158914 B [ID:8052a9ef69740108323c316f312a7062] [Ver:4d991e9580dea63d191e398a4094429c] [Sig:0]
+20:42:40.12   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\338997565.sga 11057882 B [ID:681f81da68c2883070cb5e0dad94a213] [Ver:e6eacba147f529f6b5c2594592ad057f] [Sig:0]
+20:42:40.13   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\348468521.sga 13640745 B [ID:d6484526203c4355ba7340090a42e4b3] [Ver:f946a20fa2d4c8338768839f3243e0ad] [Sig:0]
+20:42:40.13   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\353778730.sga 15968005 B [ID:1bac465a64c4742e724b5a6433b41a0e] [Ver:e23307808be9bb74529882e61c92ff7c] [Sig:0]
+20:42:40.14   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\354522620.sga 11116590 B [ID:6bf7dc7beb4772c4b04796c746be564a] [Ver:77e71e4e5a10beda6c56607a152dd85c] [Sig:0]
+20:42:40.15   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\356589922.sga 15500109 B [ID:36661860cbebca2e51703e8b49479243] [Ver:2d8626ea4228f79a8e435cbdc68d36b5] [Sig:0]
+20:42:40.15   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\369210409.sga 20171882 B [ID:84d3b35e25e9348136eb39f74a8d1d14] [Ver:f2e142cb56059bc8520b03876870edb3] [Sig:0]
+20:42:40.16   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\472402094.sga 164403277 B [ID:08a0ac9c7e6144909909a02d533ce8aa] [Ver:2416d1156f23db5dee9ee1993eb68f82] [Sig:0]
+20:42:40.16   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\562507378.sga 7864836 B [ID:969cbbe30cd5cf65232b8167bd8d5522] [Ver:9540fd7ba00dd5f802206fc13c069877] [Sig:0]
+20:42:40.17   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\scenarios\subscriptions\562509062.sga 11799699 B [ID:10fb8b6fe0153b9d3ec0c78099302857] [Ver:6a7f0bcfcca867ab70e0a59a1f8bec70] [Sig:0]
+20:42:40.18   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\tuning\subscriptions\350031348.sga 9177748 B [ID:c645cab0f7f240599442d19efb9a317c] [Ver:1f67f64e882dde6df0ca5fb7690b5272] [Sig:0]
+20:42:40.50   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\gamemode\subscriptions\333763272.sga 1255795 B [ID:77d2aff43aa04b05857ed9e310a0c1e0] [Ver:8d4dc2298f9487cf2f88ad3a577386d4] [Sig:0]
+20:42:40.54   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\gamemode\subscriptions\333857863.sga 172147 B [ID:c58d4437a9f6487ba40ca054f9963d4c] [Ver:1cac05d5a55636c41cd7585dd7c244fb] [Sig:0]
+20:42:40.55   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\skins\subscriptions\1208734200.sga 100815238 B [ID:d91ed64347c0454f9c75454d726cbb5a] [Ver:4900978f19ff1a0a2b2c08cba2031dfb] [Sig:0]
+20:42:40.55   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\skins\subscriptions\470283740.sga 139540002 B [ID:c1054939650647ef8e0297dae2793570] [Ver:e31f571ccf31bfe629a0aa557aafa782] [Sig:0]
+20:42:40.56   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\skins\subscriptions\561269463.sga 47336830 B [ID:78bd71f17caf4f619b63b0de4b91d87c] [Ver:55b6f14b988f9830e77e6630de1d0c09] [Sig:0]
+20:42:40.56   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\skins\subscriptions\633276764.sga 55197855 B [ID:141449ed3fc84466a99d4e6b1f82e728] [Ver:e5375658ed5843ac38fbcf8ab1c9517e] [Sig:0]
+20:42:40.57   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\decals\subscriptions\468439899.sga 162810 B [ID:0b194c262900407db742f19658f56f9a] [Ver:8ecd1a7a247662e059412150ec7ec305] [Sig:0]
+20:42:40.57   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\decals\subscriptions\470284406.sga 260865 B [ID:e643e3bec4a346c9abb6a71a52980902] [Ver:118bfa6179daeee68056d32ae975bd1e] [Sig:0]
+20:42:40.58   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\decals\subscriptions\470379141.sga 1505207 B [ID:38eba702bb8c4e0d93b31cb9547eba38] [Ver:450245451b7f958645094a3dcdf95253] [Sig:0]
+20:42:40.58   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\decals\subscriptions\526176070.sga 1440660 B [ID:554cf4e8afb74e1eb5ad05a6f74e7171] [Ver:7b32277c105359c9fa95aa85fbf2603b] [Sig:0]
+20:42:40.58   ARC -- C:\Users\Sherezade\Documents\My Games\Company of Heroes 2\mods\faceplates\subscriptions\1423062084.sga 107769 B [ID:1761a1c2ac454e76be6d3962345ae541] [Ver:ebe316032f59a14b0aae89b3518c153d] [Sig:0]
+20:42:40.60   GameApp::InitSteam: steam already initialized
+20:42:40.60   SteamApps->BGetDLCDataByIndex - failed, index: 1/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 42/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 44/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 45/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 46/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 47/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 48/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 49/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 50/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 51/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 52/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 57/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 58/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 59/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 60/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 62/68
+20:42:40.61   SteamApps->BGetDLCDataByIndex - failed, index: 63/68
+20:42:40.61   NetworkManager::Create - creating network manager
+20:42:41.69   WorldwideLoginService::WorldwideLoginService - initializing
+20:42:41.69   Opened the CA system store.
+20:42:41.69   Certificate for Blizzard Battle.net Local Cert has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Baltimore CyberTrust Root has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft Root Certificate Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Thawte Timestamping CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft Root Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Symantec Enterprise Mobile Root for Microsoft has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft Root Certificate Authority 2011 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft Authenticode(tm) Root Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for USB\VID_054C&PID_0268 (libwdi autogenerated) has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for USB\VID_0A12&PID_0001 (libwdi autogenerated) has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for DigiCert High Assurance EV Root CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft Root Certificate Authority 2010 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft ECC TS Root Certificate Authority 2018 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Copyright (c) 1997 Microsoft Corp. has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc. has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Microsoft ECC Product Root Certificate Authority 2018 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for UTN-USERFirst-Object has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for DigiCert Global Root G2 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for QuoVadis Root Certification Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for DST Root CA X3 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for GlobalSign has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Baltimore CyberTrust Root has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Certification Authority of WoSign has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Starfield Root Certificate Authority - G2 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for GlobalSign Root CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for COMODO RSA Certification Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Starfield Class 2 Certification Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for DigiCert Global Root CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for COMODO ECC Certification Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for thawte Primary Root CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Chambers of Commerce Root - 2008 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for GlobalSign has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Class 3 Public Primary Certification Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Certum CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for DigiCert High Assurance EV Root CA has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Starfield Services Root Certificate Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for D-TRUST Root Class 3 CA 2 2009 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Hotspot 2.0 Trust Root CA - 03 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Entrust.net Certification Authority (2048) has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for VeriSign Class 3 Public Primary Certification Authority - G5 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for Go Daddy Root Certificate Authority - G2 has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for StartCom Certification Authority has been retrieved.
+20:42:41.69   successfully decoded into x509
+20:42:41.69   Certificate for America Online Root Certification Authority 1 has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   Certificate for VeriSign Universal Root Certification Authority has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   Certificate for Go Daddy Class 2 Certification Authority has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   Certificate for Thawte Server CA has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   Certificate for Certum Trusted Network CA has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   Certificate for DigiCert Assured ID Root CA has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   Certificate for AddTrust External CA Root has been retrieved.
+20:42:41.70   successfully decoded into x509
+20:42:41.70   49 certificates loaded
+20:42:41.70   WinTransport - CreateSocket exclusive broadcast socket was available.
+20:42:41.70   RLink::WorldwideLoginService::LongPoller::ThreadFunction - Entering network thread function...
+20:42:41.70   WinTransport - CreateSocket listening for broadcasts on default port
+20:42:41.70   WinTransport - Host Name: DESKTOP-J3A9730, aliases: , type=AF_INET, len=4
+20:42:41.70   WinTransport - Host IP Address #0: 192.168.1.84
+20:42:41.70   WinTransport - Interface #0: ip:127.0.0.1, broadcast:127.0.0.1, flags=IFF_UP IFF_LOOPBACK IFF_MULTICAST
+20:42:41.70   WinTransport - Interface #1: ip:192.168.1.84, broadcast:192.168.1.84, flags=IFF_UP IFF_BROADCAST IFF_MULTICAST
+20:42:41.70   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+20:42:41.70   SessionManager - Peer Header Size = 15 bytes
+20:42:41.70   SessionManager - Game Data overhead = 4 bytes
+20:42:41.70   SessionManager - Proxy overhead = 7 bytes
+20:42:41.70   RLink::ThreadFunction - Entering network thread function...
+20:42:41.73   Not able to open the offline items file
+20:42:41.73   AutomatchInternal: Instantiating
+20:42:41.73   MessageInternal::CreateChannel: Created channel fffffffe
+20:42:41.73   MessageInternal::CreateChannel: Created channel fffffffb
+20:42:41.73   MessageInternal::CreateChannel: Created channel fffffffd
+20:42:41.73   Not able to open the offline items file
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000001
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000002
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000003
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000004
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000005
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000006
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000007
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000008
+20:42:41.73   MessageInternal::CreateChannel: Created channel 00000009
+20:42:41.73   MessageInternal::CreateChannel: Created channel 0000000a
+20:42:41.96   GAME -- Company Of Heroes 2, Build [4.0.0.23163], Language [spanish]
+20:42:41.97   Plat::Win32  -- Desktop PPI 96,  DPI Scaling: 1.000000
+20:42:42.01   SPDx11 -- Adapter [Microsoft Basic Render Driver]: 0MB dedicated video memory, 0MB dedicated system memory and 4095MB shared system memory.
+20:42:42.01   OPTION -- effectsdensity: 3
+20:42:42.01   OPTION -- effectsfidelity: 3
+20:42:42.01   OPTION -- modeldetail: 511
+20:42:42.01   OPTION -- postprocessing: 1
+20:42:42.01   OPTION -- raindetail: 2
+20:42:42.01   OPTION -- reflections: 1
+20:42:42.01   OPTION -- ambocclquality: 2
+20:42:42.01   OPTION -- shadows: 3
+20:42:42.01   OPTION -- shrubsdetail: 1
+20:42:42.01   OPTION -- terraindetail: 3
+20:42:42.01   OPTION -- snowdetail: 3
+20:42:42.01   OPTION -- antialiasing: 3
+20:42:42.01   OPTION -- verticalsync: 1
+20:42:42.01   OPTION -- physics: 3
+20:42:42.01   OPTION -- texturedetail: 3
+20:42:42.01   OPTION -- worldviewquality: 2
+20:42:42.01   OPTION -- modelanimationdetail: 1
+20:42:42.02   SPOOGE - Driver[DirectX11_Rendering_Device] version[4,37]
+20:42:42.02   GAME -- Desktop refresh rate is 64.000000Hz
+20:42:42.02   GAME -- Configuration selected refresh rate is (119.982002Hz) 119982/1000
+20:42:42.02   GAME -- Final selected refresh rate 64.000000Hz
+20:42:42.02   GAME -- Resolution set to 1920x1080 @ (64.000000Hz) 64/1 (fullscreen).
+20:42:42.04   SPDx11 -- New Device RefCount [2], New DeviceContext RefCount [1]
+20:42:42.04   SPDx11 -- Adapter Description = Microsoft Basic Render Driver
+20:42:42.04   SPDx11 -- Driver Vendor = 0x00001414  Device = 0x0000008c  SubSys = 0x00000000  Rev = 0x00000000
+20:42:42.04   SPDx11 -- Driver Version  Product = 10  Version = 0  SubVersion = 69  Build = 903.48
+20:42:42.04   SPDx11 -- Driver LUID = 0x00000000-0x0000c45f
+20:42:42.04   SPDx11 -- 0MB dedicated video memory, 0MB dedicated system memory and 4095MB shared system memory available.
+20:42:42.04   SPDx11 -- [1] GPUs found.
+20:42:42.04   ShaderDatabase: using shader profile [ps50]
+20:42:42.12   Unable to load shader [coh2_impostor_billboard] so replacing with [defaultshader]
+20:42:42.32   SPDx11 -- CreateSwapChain: 1920x1080 @ 64/1Hz (64.000000Hz). Sample count/quality: 1/0. Back buffers: 2.
+20:42:42.40   SPDx11 -- Actual SwapChain buffer set by DXGI: 1920x1080 @ 64/1Hz = Refresh Rate: 64.00
+20:42:42.40   SPDx11 -- ResizeTarget: 1920x1080 @ 64/1Hz = Refresh Rate: 64.00
+20:42:42.44   SPDx11 -- Setting SwapChain State to: FULLSCREEN
+20:42:42.44   SPDx11 -- Actual SwapChain buffer set by DXGI: 1920x1080 @ 64/1Hz = Refresh Rate: 64.00
+20:42:42.44   SPDx11 -- Resizing target to make sure Refresh rate is set properly after FullScreen mode change
+20:42:42.44   SPDx11 -- ResizeTarget: 1920x1080 @ 0/0Hz = Refresh Rate: 0.00
+20:42:42.44   SPDx11 -- Actual SwapChain buffer set by DXGI: 1920x1080 @ 64/1Hz = Refresh Rate: 64.00
+20:42:42.45   SPDx11 -- Gamma Caps - Scale/Offset supported: no, Max: 1.00, Min: 0.00, Number of Control Points: 0.
+20:42:42.56   SPDx11 -- Gamma Caps - Scale/Offset supported: no, Max: 1.00, Min: 0.00, Number of Control Points: 0.
+20:42:42.56   SPDx11 -- device requires additional virtual address space for render targets and static textures
+20:42:42.56   SPDx11 -- Setting SwapChain State to: FULLSCREEN
+20:42:42.56   SPDx11 -- Actual SwapChain buffer set by DXGI: 1920x1080 @ 64/1Hz = Refresh Rate: 64.00
+20:42:42.56   SPDx11 -- Resizing target to make sure Refresh rate is set properly after FullScreen mode change
+20:42:42.56   SPDx11 -- ResizeTarget: 1920x1080 @ 0/0Hz = Refresh Rate: 0.00
+20:42:42.60   SPDx11 -- Actual SwapChain buffer set by DXGI: 1920x1080 @ 64/1Hz = Refresh Rate: 64.00
+20:42:43.71   SPDx11 -- GPU can do [945] pixels per usecond.  At [1920x1080x1] this is [456] screens per second. with a CPU overhead of [0.000000] ms, GPU Usage Time [105.215698] ms, QueryWaitCPU time [107.000008] ms
+20:42:45.24   SPDx11 -- GPU can do [27] pixels per usecond.  At [1024x1024x1] this is [26] screens per second. with a CPU overhead of [0.000000] ms, GPU Usage Time [149.934402] ms, QueryWaitCPU time [151.000015] ms
+20:42:45.24   FILESYSTEM -- filepath failure, missing alias 'TOOLSDATA:autoloddecimator.lua'
+20:42:45.61   SOUND -- Initializing ...
+20:42:45.71   INNIMapDCA Key not found: tiger_radio_fuzz::objectdistance
+20:42:45.72   INNIMapDCA Key not found: Reverb_Forest_Subtle::Distance
+20:42:45.74   INNIMapDCA Key not found: metamap_result
+20:42:45.95   INNIMapDCA Key not found: rudders_rotation
+20:42:46.27   SOUND -- Initialization completed!
+20:42:46.38   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\tow\challenges\1942_airfield\allied_airfield.info'
+20:42:46.39   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\tow\scenarios\1941_moscow\1941_moscow_art_v1_ro.info'
+20:42:46.40   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\sp\coh2_campaign\m02-scorched_earth\scorched_earth_02_03nis.info'
+20:42:46.41   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\mp\2p_cheneux\2p_cheneux_temp.info'
+20:42:46.47   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\mp\4p_gelsenkirchen_refinery\4p_gelsenkirchen_refinery_temp.info'
+20:42:46.50   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\mp\6p_across_the_rhine\6p_across_the_rhine_temp.info'
+20:42:46.52   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\mp\8p_port_of_hamburg\8p_port_of_hamburg_2.info'
+20:42:46.53   SCENARIO -- Failed to open stream for Scenario 'DATA:scenarios\mp\outsourcing_winter\outsourcing_winter.info'
+20:42:49.73   GameObjLoader 11e91520 - resetting counters
+20:42:49.73   GameObjLoader 11e91520 - Created loader
+20:42:49.73   GameObjLoader 11e915e0 - resetting counters
+20:42:49.73   GameObjLoader 11e915e0 - Created loader
+20:42:50.60   CRC & Version Info : exe 0x00005a7b:data 0x8be658b9
+20:42:50.60   Initializing Scaleform D3D11 HAL
+20:42:52.97   Ignoring replay [PLAYBACK:Parece un pro del copon.rec] as it is version [23142] and current build is [23163]
+20:42:52.97   GAME -- Error reading header for recorded game PLAYBACK:Parece un pro del copon.rec
+20:42:53.68   Ignoring replay [PLAYBACK:Parece un pro del copon.rec] as it is version [23142] and current build is [23163]
+20:42:53.68   GAME -- Error reading header for recorded game PLAYBACK:Parece un pro del copon.rec
+20:42:54.17   SFLoader -- UI DATA:UI\Bin\COH2UI.gfx loaded in 3.558000s
+20:42:54.17   MUTING SOUNDS
+20:42:54.74   NetworkManager::DispatchEvents() - Warning - Time between calls was 8378 ms
+20:42:54.74   Requesting ticket
+20:42:54.74   SteamAuthManager::GetAuthToken state ID : 1
+20:42:55.02   SteamAuthManager::GetAuthToken state ID : 1
+20:42:55.07   SteamAuthManager::GetAuthToken state ID : 1
+20:42:55.54   OnRequest app ticket returned N
+20:42:55.54   SteamAuth received ticket at t=13841
+20:42:55.54   SteamAuthManager::GetAuthToken state ID : 2
+20:42:58.07   Found 1 profiles for account /steam/76561198003227150
+20:42:58.07   Found profile: /steam/76561198003227150
+20:42:58.07   RelicLinkListener::OnAccountEvent - AET_Login - Result [0]
+20:43:01.25   ExtensionDoExternalCallEvent (https://garry.sgaas.net:443/event) - response good: 0 bytes,
+20:43:01.28   GetAutomatchMaps: Got [435] maps
+20:43:01.29   Ignoring replay [PLAYBACK:Parece un pro del copon.rec] as it is version [23142] and current build is [23163]
+20:43:01.29   GAME -- Error reading header for recorded game PLAYBACK:Parece un pro del copon.rec
+20:43:05.81   Some of the ItemPrices received from the server were removed. Size changed from 9135395440722 to -7086903742804424244
+20:43:07.66   Some of the ItemPrices received from the server were removed. Size changed from 9135395440722 to -7086903742804424244
+20:43:14.16   starting online hosting
+20:43:14.32   SlotManager::GetStringFromSlots: compressed = 32 bytes / 414 bytes
+20:43:15.16   BT! - SockInit: SOCK_FD_SET_SIZE = 64
+20:43:15.16   DBG - SockConnect: 0/s->stHandle=3952
+20:43:15.16   DBG - SockConnect: 0/3952 connect deferred (in progress)
+20:43:15.29   DBG - SockAnimateAll: socket 0/3952 connection complete.
+20:43:15.52   battleserverrelay - Connected: 
+Connection [ 1/ 1] - local=192.168.1.84:49880, remote=54.84.62.182:27027, type=CONNECT, timeTookToConnectMS=354, silentTimeMS=0, lastSockError=0
+20:43:15.56   OnlineHostAsync success
+20:43:15.56   Session::Initialize - info, initializing session object, using threads.
+20:43:15.56   SessionManager::RegisterSession - Registering RL_NEW session 9aa30140
+20:43:15.56   Created Matchinfo for sessionID 175017483
+20:43:15.56   OnJoinAdvertisementSuccess - joined online match, server leave notification required
+20:43:15.56   starting local hosting
+20:43:15.56   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+20:43:15.56   Allocated route ID=0 for PeerID 1 at WINaddr:192.168.1.84:6112;
+20:43:15.56   Transport::OpenInternal request to WINaddr:192.168.1.84:6112;
+20:43:15.56   Session::Host sid = A6E8E0B, hostURL = , local addresses = WINaddr:192.168.1.84:6112;
+20:43:15.56   Session::GetState - info, session [175017483]'s state changed to [2:STATE_CONNECTING].
+20:43:15.56   ValidateCustomData: called with 5863 bytes of custom data
+20:43:15.56   Host accepted Peer 1 into the match at address list=WINaddr:192.168.1.84:6112;, routes=WINaddr:192.168.1.84:6112;
+20:43:15.56   WorldwideAdvertisementService::Process - EVENT_NEWPEER
+20:43:15.59   Session::GetState - info, session [175017483]'s state changed to [3:STATE_CONNECTED].
+20:43:15.59   Sending matchinfo change #2
+20:43:15.59   Session Connection Event - ReasonID: 0 ReasonDebug: SessionOperationInfo::SUCCESS
+20:43:15.59   HostAsync - got operation info 0:SessionOperationInfo::SUCCESS
+20:43:15.60   local host PeerID 1 LOCL ack=  0 (  0ms~0) unack=  3, retry=  0, highwaterOOS=0 (ip=WINaddr:192.168.1.84:6112;), pending=0, dead=0, RS#=0/2
+20:43:15.60   MessageCounts: inval=0/0, seek=0/0, join=1/0, ichk=0/0, sk_r=0/0, deny=0/0, Padd=1/0, Pdel=0/0, drop=0/0, data=1/0, mdat=0/0, voip=0/0, rchk=0/0, nudg=0/0, Thdr=0/0, Peer=2/0, PPrx=1/0, ping=0/0, Pfrg=0/0, rely=2/0, lb_p=0/0, lb_c=0/0, cast=0/0, cdat=0/0, sorq1=0/0, sorp=0/0, acto=0/0, spob=0/0, sorq2=0/0, setp=1/0, actr=0/0, lsim=0/0
+20:43:15.63   hosting - Session is connected
+20:43:15.64   HostAsync - completed with HostResult = 0
+20:43:15.64   Party::SetHostJoinResult - 0
+20:43:15.64   Party::SetStatus - S_CONFIGURING
+20:43:15.65   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+20:43:15.65   WorldwideAutomatchService::OnHostComplete - automatcher is no longer active - stopPollPending 0 automatchPollID 18446744073709551615
+20:43:15.65   SlotManager::GetStringFromSlots: compressed = 200 bytes / 830 bytes
+20:43:15.76   Sending matchinfo change #12
+20:43:15.77   Session - rcv'd Join request - address noaddr/relay/PID=C38343A51150FDD8 in use by existing peer (ignoring)
+20:43:15.77   Session::PollTransportEvents AddPeerMessage ignored, peer 1 already in m_peers
+20:43:15.96   Sending matchinfo change #14
+20:43:15.96   Rejecting packet type 0 that claims to come from ourself
+20:43:15.96   Rejecting packet type 0 that claims to come from ourself
+20:43:16.19   Rejecting packet type 0 that claims to come from ourself
+20:43:16.86   SlotManager::GetStringFromSlots: compressed = 198 bytes / 830 bytes
+20:43:17.24   WorldwideAutomatch2Service::Polling - queued CreateAutomatch2
+20:43:18.07   Party::OnAutomatch2Event - AET_Polling - R_Success
+20:43:18.07   Party::OnAutomatch2Event - Starting polling
+20:43:28.03   WorldwideAutomatch2Service::Polling - queued CreateAutomatch2
+20:43:28.42   Party::OnAutomatch2Event - AET_Polling - R_Success
+20:43:39.02   WorldwideAutomatch2Service::Polling - queued CreateAutomatch2
+20:43:39.38   Party::OnAutomatch2Event - AET_Polling - R_Success
+20:43:42.00   Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0
+20:43:50.00   WorldwideAutomatch2Service::Polling - queued CreateAutomatch2
+20:43:50.36   Party::OnAutomatch2Event - AET_Polling - R_Success
+20:44:01.01   WorldwideAutomatch2Service::Polling - queued CreateAutomatch2
+20:44:01.37   Party::OnAutomatch2Event - AET_Polling - R_Success
+20:44:03.52   AutomatchInternal - OnJoinAutomatch - Server told us join matchID=175017536, hostProfileID=2622354
+20:44:03.52   AutomatchInternal - join request validated, attempting
+20:44:03.57   JoinAsync: Starting AsyncJob...
+20:44:03.62   BT! - SockInit: SOCK_FD_SET_SIZE = 64
+20:44:03.62   DBG - SockConnect: 1/s->stHandle=3904
+20:44:03.62   DBG - SockConnect: 1/3904 connect deferred (in progress)
+20:44:03.72   DBG - SockAnimateAll: socket 1/3904 connection complete.
+20:44:03.93   battleserverrelay - Connected: 
+Connection [ 1/ 1] - local=192.168.1.84:49903, remote=54.84.62.182:27023, type=CONNECT, timeTookToConnectMS=307, silentTimeMS=0, lastSockError=0
+20:44:04.03   OnlineJoinAsync success
+20:44:04.03   Session::Initialize - info, initializing session object, using threads.
+20:44:04.03   SessionManager::RegisterSession - Registering RL_NEW session 9aa32e90
+20:44:04.03   Created Matchinfo for sessionID 175017536
+20:44:04.03   OnJoinAdvertisementSuccess - joined online match, server leave notification required
+20:44:04.08   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+20:44:04.08   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+20:44:04.08   Allocated route ID=0 for PeerID 0 at WINaddr:192.168.1.84:6112;
+20:44:04.08   Transport::OpenInternal request to WINaddr:192.168.1.84:6112;
+20:44:04.08   Session::Connect sid = A6E8E40, hostURL = , local addresses = WINaddr:192.168.1.84:6112;
+20:44:04.09   BattleServerRelay::Process - 163 ms between calls!
+20:44:04.53   Sending PeerID 1 no longer exist, sessionID=A6E8E40
+20:44:04.53   Session::PollTransportEvents AddPeerMessage from peer 0 recv'd for existing pending peer 0, the local peer
+20:44:04.53   Session - highest peerID now : 2
+20:44:04.53   Session::PollTransportEvents AddPeerMessage from peer 0 recv'd for existing pending peer 0, the host
+20:44:04.53   Session::PollTransportEvents AddPeerMessage from peer 1 recv'd for unknown peer at address list WINaddr:192.168.2.122:6112;
+20:44:04.53   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+20:44:04.53   Session::CheckAddress - initiating address check for WINaddr:192.168.2.122:6112;
+20:44:04.53   Session - highest peerID now : 3
+20:44:04.54   ValidateCustomData: called with 5059 bytes of custom data
+20:44:04.54   Client accepted Peer 2 into the match at address list = WINaddr:192.168.1.84:6112;, routes = WINaddr:192.168.1.84:6112;
+20:44:04.54   Session::GetEvent - probing service provided NAT'd routes
+20:44:04.54   WorldwideAdvertisementService::Process - EVENT_NEWPEER
+20:44:04.54   ValidateCustomData: called with 4678 bytes of custom data
+20:44:04.54   Client accepted Peer 1 into the match at address list = WINaddr:192.168.178.33:6112;, routes =
+20:44:04.54   WorldwideAdvertisementService::Process - EVENT_NEWPEER
+20:44:04.54   ValidateCustomData: called with 3432 bytes of custom data
+20:44:04.54   Client accepted Peer 3 into the match at address list = WINaddr:192.168.2.122:6112;, routes =
+20:44:04.54   WorldwideAdvertisementService::Process - EVENT_NEWPEER
+20:44:04.58   local      PeerID 2 LOCL ack=  0 (  0ms~0) unack=  0, retry=  0, highwaterOOS=0 (ip=WINaddr:192.168.1.84:6112;), pending=0, dead=0, RS#=0/0
+20:44:04.58         host PeerID 1 RELY ack=  1 (187ms~0) unack=  0, retry=  0, highwaterOOS=0 (ip=WINaddr:192.168.178.33:6112;), pending=0, dead=0, RS#=0/0
+20:44:04.58              PeerID 3 RELY ack=  0 (  0ms~0) unack=  0, retry=  0, highwaterOOS=0 (ip=WINaddr:192.168.2.122:6112;), pending=0, dead=0, RS#=0/0
+20:44:04.58   MessageCounts: inval=0/0, seek=0/0, join=1/2, ichk=0/0, sk_r=0/0, deny=0/0, Padd=0/6, Pdel=0/0, drop=0/0, data=0/0, mdat=0/0, voip=0/0, rchk=2/0, nudg=0/0, Thdr=0/0, Peer=1/8, PPrx=0/1, ping=0/0, Pfrg=0/0, rely=1/3, lb_p=0/0, lb_c=0/0, cast=0/0, cdat=0/0, sorq1=0/0, sorp=0/0, acto=0/0, spob=0/0, sorq2=0/0, setp=0/0, actr=0/0, lsim=0/0
+20:44:04.59   Session Connection Event - ReasonID: 0 ReasonDebug: SessionOperationInfo::SUCCESS
+20:44:04.59   JoinAsync - got operation info 0:SessionOperationInfo::SUCCESS
+20:44:05.01   [P#2] SrcP# 1 ignoring old retry: 1 expect: 4
+20:44:05.01   [P#2] SrcP# 1 ignoring old retry: 2 expect: 4
+20:44:05.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:05.03   Transport - Largest sent is now 36
+20:44:05.12   [P#2] SrcP# 1 ignoring old retry: 3 expect: 4
+20:44:05.28   [P#2] SrcP# 1 buffer out of seq: 5 expect: 4
+20:44:05.30   [P#2] SrcP# 1 buffer out of seq: 6 expect: 4
+20:44:05.52   [P#2] SrcP# 1 ignoring old retry: 1 expect: 4
+20:44:05.52   [P#2] SrcP# 1 ignoring old retry: 2 expect: 4
+20:44:05.52   [P#2] SrcP# 1 ignoring old retry: 3 expect: 4
+20:44:06.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:06.02   [P#2] SrcP# 1 ignoring old retry: 1 expect: 4
+20:44:06.02   [P#2] SrcP# 1 ignoring old retry: 2 expect: 4
+20:44:06.02   [P#2] SrcP# 1 ignoring old retry: 3 expect: 4
+20:44:06.17   [P#2] SrcP# 1 buffer out of seq: 7 expect: 4
+20:44:06.53   [P#2] SrcP# 1 ignoring old retry: 1 expect: 4
+20:44:06.53   [P#2] SrcP# 1 ignoring old retry: 2 expect: 4
+20:44:06.53   [P#2] SrcP# 1 ignoring old retry: 3 expect: 4
+20:44:07.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:07.03   [P#2] SrcP# 1 ignoring old retry: 1 expect: 4
+20:44:07.03   [P#2] SrcP# 1 ignoring old retry: 2 expect: 4
+20:44:07.03   [P#2] SrcP# 1 ignoring old retry: 3 expect: 4
+20:44:07.40   [P#2] SrcP# 1 discarding already in buffer out of seq: 5 expect: 4
+20:44:07.42   [P#2] SrcP# 1 discarding already in buffer out of seq: 6 expect: 5
+20:44:07.42   SrcP# 1 deliver out of seq: 5 expect: 5
+20:44:07.42   SrcP# 1 erase out of seq: 5 expect: 5
+20:44:07.42   SrcP# 1 deliver out of seq: 6 expect: 6
+20:44:07.42   SrcP# 1 erase out of seq: 6 expect: 6
+20:44:07.42   SrcP# 1 deliver out of seq: 7 expect: 7
+20:44:07.42   SrcP# 1 erase out of seq: 7 expect: 7
+20:44:07.42   Session::PollTransportEvents AddPeerMessage from peer 1 recv'd for unknown peer at address list WINaddr:192.168.2.101:6112;
+20:44:07.42   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+20:44:07.42   Session::CheckAddress - initiating address check for WINaddr:192.168.2.101:6112;
+20:44:07.42   Session - highest peerID now : 4
+20:44:07.47   Accepted matchInfo updated 8 from host
+20:44:07.47   Session::GetState - info, session [175017536]'s state changed to [3:STATE_CONNECTED].
+20:44:07.47   ValidateCustomData: called with 4887 bytes of custom data
+20:44:07.47   Client accepted Peer 4 into the match at address list = WINaddr:192.168.2.101:6112;, routes =
+20:44:07.47   WorldwideAdvertisementService::Process - EVENT_NEWPEER
+20:44:07.47   Accepted matchInfo updated 10 from host
+20:44:07.47   Accepted matchInfo updated 11 from host
+20:44:07.52   JoinAsync - completed with JoinResult = 0
+20:44:07.52   JoinAsync - completed with JoinResult = 0:AdvertisementJoinEvent::R_Success
+20:44:07.52   WorldwideAutomatchService::OnJoinComplete - automatcher is no longer active - ignoring
+20:44:07.52   WorldwideAutomatch2Service::OnJoinComplete - Completed Join with joinResult=0 matchID=175017536
+20:44:07.52   JoinAsync: AsyncJob Complete...
+20:44:07.88   WorldwideAutomatch2Service::Process - Got into game successfully, 4 players present, got correct slot settings - setting metadata
+20:44:08.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:08.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:08.44   Accepted matchInfo updated 12 from host
+20:44:08.96   Accepted matchInfo updated 13 from host
+20:44:09.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:09.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:09.57   Accepted matchInfo updated 14 from host
+20:44:10.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:10.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:10.18   Accepted matchInfo updated 15 from host
+20:44:11.01   WorldwideAutomatch2Service::Process - Got into game successfully, 4 players present, got correct slot settings - readying up
+20:44:11.02   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:11.02   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:11.57   Accepted matchInfo updated 16 from host
+20:44:12.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:12.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:12.03   WorldwideAutomatch2Service::Polling - queued CreateAutomatch2
+20:44:12.39   Party::OnAutomatch2Event - AET_Polling - R_Success
+20:44:13.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:13.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:13.93   Accepted matchInfo updated 17 from host
+20:44:14.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:14.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:14.70   Accepted matchInfo updated 18 from host
+20:44:14.70   WorldwideAutomatchService::OnStartComplete - detected successful game start
+20:44:14.70   Match Started - [00000000:00280392 /steam/76561198123719308], slot =  0, ranking = 1296
+20:44:14.70   Match Started - [00000000:0001e1b2 /steam/76561198003227150], slot =  1, ranking = 1035
+20:44:14.70   Match Started - [00000000:0028b011 /steam/76561198134247106], slot =  2, ranking = 1296
+20:44:14.70   Match Started - [00000000:0000502b /steam/76561197979521543], slot =  3, ranking = 1083
+20:44:15.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.122:6112;
+20:44:15.01   Session::ProcessCheckAddressList - address WINaddr:192.168.2.122:6112; timed out
+20:44:15.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:15.93   WorldwideAutomatchService::OnStartComplete - detected successful game start
+20:44:15.93   WorldwideAutomatchService::OnStartComplete - forcing pollcomplete event
+20:44:15.93   MOD - Setting player (0) race to: 0
+20:44:15.93   MOD - Setting player (1) race to: 0
+20:44:15.93   MOD - Setting player (2) race to: 0
+20:44:15.93   MOD - Setting player (3) race to: 0
+20:44:15.93   GAME -- Scenario: DATA:scenarios\mp\4p_alliance of defiance\aod
+20:44:15.93   GAME -- Win Condition Qualified Name: 00000000000000000000000000000000:16123440
+20:44:15.93   GAME -- Win Condition Name: victory_point
+20:44:15.93   GAME -- Human Player: 0 Funsi 2622354 0 british
+20:44:15.93   GAME -- Human Player: 1 Tuexnovia 123314 1 west_german
+20:44:15.93   GAME -- Human Player: 2 goofykiller13 2666513 0 british
+20:44:15.93   GAME -- Human Player: 3 Papa Chulo 20523 1 west_german
+20:44:16.02   local host PeerID 1 LOCL ack=  5 (465ms~94) unack=  0, retry=  0, highwaterOOS=0 (ip=WINaddr:192.168.1.84:6112;), pending=0, dead=0, RS#=4/4
+20:44:16.02   MessageCounts: inval=0/0, seek=0/0, join=0/1, ichk=0/0, sk_r=0/0, deny=0/0, Padd=0/18, Pdel=0/0, drop=0/0, data=12/10, mdat=0/0, voip=0/0, rchk=20/0, nudg=1/0, Thdr=19/0, Peer=47/56, PPrx=16/42, ping=0/0, Pfrg=0/0, rely=1/17, lb_p=4/3, lb_c=0/0, cast=0/0, cdat=0/0, sorq1=0/0, sorp=0/0, acto=0/0, spob=0/0, sorq2=0/0, setp=0/0, actr=0/0, lsim=0/0
+20:44:16.02   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:16.29   WorldwideAutomatch2Service::OnPollComplete - I am peer 2, ihost:0, islocal:1
+20:44:16.29   WorldwideAutomatch2Service::OnPollComplete - All players in session and ready, automatch process complete
+20:44:16.29   Party::SetStatus - S_PLAYING
+20:44:16.29   Sending matchinfo change #15
+20:44:16.29   SlotManager::GetStringFromSlots: compressed = 200 bytes / 830 bytes
+20:44:16.50   Rejecting packet type 0 that claims to come from ourself
+20:44:17.00   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:17.01   GameObj::StartGameObj - info, network session GUID set to [700070145].
+20:44:17.44   OBJECTSCAR -- Initialization failed - could not load scar type BP list.
+20:44:17.53   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      95314, timeSinceLastTransmitMS        517 | Peer RS--- M#00000001 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel:XQŸ, Size:18  ]
+20:44:17.77   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      95565, timeSinceLastTransmitMS        507 | Peer RS--- M#00000002 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:18.01   Session::ProcessCheckAddressList - sending address check to WINaddr:192.168.2.101:6112;
+20:44:18.01   Session::ProcessCheckAddressList - address WINaddr:192.168.2.101:6112; timed out
+20:44:18.05   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      95846, timeSinceLastTransmitMS        512 | Peer RS--- M#00000003 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:18.56   INNIMapDCA Key not found: tinitus::time
+20:44:18.79   PHYSICS -- Created node factory 'HVOK'
+20:44:18.79   PHYSICS -- Created node factory 'DMMY'
+20:44:18.80   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      96592, timeSinceLastTransmitMS        511 | Peer RS--- M#00000004 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:18.85   GameObjLoader - upgrading load_count from 0 to 2758
+20:44:19.15   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      96948, timeSinceLastTransmitMS        505 | Peer RS--- M#00000005 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:19.57   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      97358, timeSinceLastTransmitMS        512 | Peer RS--- M#00000006 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:19.98   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      97765, timeSinceLastTransmitMS        522 | Peer RS--- M#00000007 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:20.40   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      98193, timeSinceLastTransmitMS        510 | Peer RS--- M#00000008 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:20.82   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      98598, timeSinceLastTransmitMS        522 | Peer RS--- M#00000009 Sack00000000 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:21.06   Error: DXGI_ERROR_DEVICE_REMOVED
+   Desc: Removed because DXGI_ERROR_DEVICE_REMOVED
+    Code: 5, Facility: 2170, Severity: 1
+   Call: [m_pD3DDevice->CreateTexture2D(&tex2DDesc, nullptr, pD3DTex2D.addressOfType())]
+20:44:21.06   DB -- Unable to load symbols.
+20:44:21.21   SENDING RETRY - Peer 2 to Peer 4 retryTimeMS        500 oneMsg.lastTransmitTime      99003, timeSinceLastTransmitMS        511 | Peer RS--- M#00000010 Sack00000001 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel: ]
+20:44:22.06   d3d11 -- Display device has been removed.  Please check for newer display drivers.
+20:44:22.07   DB -- Unable to load symbols.
+[Fatal]
+
+We've detected that your video card driver has crashed.  Submitting a bug report will allow us to track this.  Visit http://community.companyofheroes.com/
+
+Owner: unknown
+
+-- FATAL EXIT --
+dx11device.cpp/5872:!
+--stack trace--
+
+Application closed with error code 1129468744
