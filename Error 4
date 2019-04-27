@@ -1,0 +1,257 @@
+Windows 10 Enterprise  [Build 10.0.17763]
+CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz
+Europa 0.82.1261 2019/2/16 17:07:38
+----------------------------------------
+Type: EXCEPTION_ACCESS_VIOLATION
+Error: Write address 0x00000000
+Address: 006CA84B
+
+CallStack:
+Europa_Client + 2CA84B
+Europa_Client + 2CB88A
+Europa_Client + 2B4C95
+Europa_Client + 2B4AFE
+Europa_Client + 2B758E
+Europa_Client + 2BFC86
+Europa_Client + 2BF998
+Europa_Client + 2BF949
+ntdll + 6662D
+show in line:Europa_Client + 2CA84B Europa_Client + 2CB88A Europa_Client + 2B4C95 Europa_Client + 2B4AFE Europa_Client + 2B758E Europa_Client + 2BFC86 Europa_Client + 2BF998 Europa_Client + 2BF949 ntdll + 6662D 
+
+Regs:
+EAX=0949D600, EBX=005555D4, ECX=00000194, EDX=00000194
+ESI=00000000, EDI=00000010, EBP=0949DF14, ESP=0949D6D0, EIP=006CA84B
+
+DWORD_PTRs at CS:EIP:
+00001589 E58B0000 CCCCC35D CCCCCCCC CCCCCCCC EC8B55CC 8B10EC83 45890845 
+pid=00000B00 init_tid=00002E80 crashtid=000019EC
+DWORD_PTRs at teb:
+0949C844 094A0000 09460000 00000000 00001E00 00000000 00359000 00000000 00000B00 000019EC 00000000 7FAA2A20 00287000 00000000 00000000 00000000 00000000 
+
+Modules(By Load Order):
+[00400000,3046000] F:\Steam oficial\steamapps\common\Ring of Elysium\Europa_Client.exe [0.2.302.0,2019-02-16 09:37:22 GMT] [21075208]
+[77CA0000,19C000] C:\Windows\SYSTEM32\ntdll.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [1674480]
+[75950000,0E0000] C:\Windows\System32\KERNEL32.DLL [10.0.17763.292,0000-00-00 00:00:00 GMT] [649272]
+[762F0000,1FA000] C:\Windows\System32\KERNELBASE.dll [10.0.17763.292,1971-03-08 02:47:37 GMT] [2072728]
+[6FFC0000,09C000] C:\Windows\SYSTEM32\apphelp.dll [10.0.17763.292,1994-11-11 04:56:11 GMT] [624640]
+[6C1D0000,287000] C:\Windows\SYSTEM32\AcLayers.DLL [10.0.17763.292,0000-00-00 00:00:00 GMT] [394752]
+[76150000,0C0000] C:\Windows\System32\msvcrt.dll [7.0.17763.1,1972-03-28 12:55:37 GMT] [779376]
+[75CB0000,199000] C:\Windows\System32\USER32.dll [10.0.17763.168,2035-11-03 17:01:44 GMT] [1675712]
+[77C70000,017000] C:\Windows\System32\win32u.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [88304]
+[774A0000,023000] C:\Windows\System32\GDI32.dll [10.0.17763.1,1984-12-13 22:08:53 GMT] [138376]
+[76E90000,167000] C:\Windows\System32\gdi32full.dll [10.0.17763.316,2034-01-15 00:30:45 GMT] [1467560]
+[75ED0000,080000] C:\Windows\System32\msvcp_win.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [516496]
+[77000000,123000] C:\Windows\System32\ucrtbase.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [1195640]
+[768D0000,54D000] C:\Windows\System32\SHELL32.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [5584864]
+[77C30000,03B000] C:\Windows\System32\cfgmgr32.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [235496]
+[77BA0000,089000] C:\Windows\System32\shcore.dll [10.0.17763.1,2021-02-20 15:10:04 GMT] [555440]
+[76210000,0BF000] C:\Windows\System32\RPCRT4.dll [10.0.17763.194,0000-00-00 00:00:00 GMT] [782968]
+[75310000,020000] C:\Windows\System32\SspiCli.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [122400]
+[75300000,00A000] C:\Windows\System32\CRYPTBASE.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [31728]
+[76E20000,062000] C:\Windows\System32\bcryptPrimitives.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [398208]
+[75E50000,079000] C:\Windows\System32\sechost.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [492432]
+[76650000,278000] C:\Windows\System32\combase.dll [10.0.17763.253,0000-00-00 00:00:00 GMT] [2594872]
+[75350000,5FB000] C:\Windows\System32\windows.storage.dll [10.0.17763.168,1976-02-23 01:33:52 GMT] [6306152]
+[77390000,07E000] C:\Windows\System32\advapi32.dll [10.0.17763.1,2004-04-06 17:32:57 GMT] [507400]
+[75A30000,01C000] C:\Windows\System32\profapi.dll [10.0.17763.1,2036-03-11 08:43:54 GMT] [106384]
+[75F60000,054000] C:\Windows\System32\powrprof.dll [10.0.17763.1,2007-01-30 16:58:22 GMT] [341560]
+[77190000,044000] C:\Windows\System32\shlwapi.dll [10.0.17763.1,2029-06-30 08:48:50 GMT] [274224]
+[77A90000,00F000] C:\Windows\System32\kernel.appcore.dll [10.0.17763.1,1981-10-31 04:49:12 GMT] [51336]
+[762D0000,012000] C:\Windows\System32\cryptsp.dll [10.0.17763.1,1991-09-24 05:19:58 GMT] [67648]
+[77AA0000,09B000] C:\Windows\System32\OLEAUT32.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [629576]
+[774D0000,44B000] C:\Windows\System32\SETUPAPI.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [4526080]
+[75330000,019000] C:\Windows\System32\bcrypt.dll [10.0.17763.1,1971-12-24 21:34:44 GMT] [96760]
+[74550000,018000] C:\Windows\SYSTEM32\MPR.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [89552]
+[66680000,003000] C:\Windows\SYSTEM32\sfc.dll [10.0.17763.1,1999-08-02 00:23:59 GMT] [2560]
+[72BD0000,06B000] C:\Windows\SYSTEM32\WINSPOOL.DRV [10.0.17763.1,0000-00-00 00:00:00 GMT] [414720]
+[72900000,17E000] C:\Windows\SYSTEM32\PROPSYS.dll [7.0.17763.1,1990-02-21 03:39:19 GMT] [1571880]
+[743E0000,033000] C:\Windows\SYSTEM32\IPHLPAPI.DLL [10.0.17763.1,0000-00-00 00:00:00 GMT] [197832]
+[6FF40000,00F000] C:\Windows\SYSTEM32\sfc_os.DLL [10.0.17763.1,2006-11-05 20:41:18 GMT] [41984]
+[75FC0000,025000] C:\Windows\System32\IMM32.DLL [10.0.17763.1,2005-03-22 02:37:34 GMT] [144312]
+[54CA0000,28D9000] F:\Steam oficial\steamapps\common\Ring of Elysium\Europa_ClientBase.dll [7.2064.1007.43681,2018-09-22 09:25:40 GMT] [40568072]
+[771E0000,199000] C:\Windows\System32\CRYPT32.dll [10.0.17763.1,2031-06-01 16:58:31 GMT] [1668784]
+[77A80000,00E000] C:\Windows\System32\MSASN1.dll [10.0.17763.1,2006-08-13 08:03:07 GMT] [50608]
+[72D50000,013000] C:\Windows\SYSTEM32\NETAPI32.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [68680]
+[75F50000,006000] C:\Windows\System32\PSAPI.DLL [10.0.17763.1,2004-05-23 04:18:06 GMT] [17208]
+[73850000,008000] C:\Windows\SYSTEM32\VERSION.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [27328]
+[75210000,024000] C:\Windows\SYSTEM32\WINMM.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [134512]
+[74680000,023000] C:\Windows\SYSTEM32\WINMMBASE.dll [10.0.17763.1,2035-11-29 08:34:01 GMT] [132392]
+[76000000,045000] C:\Windows\System32\WINTRUST.dll [10.0.17763.292,1975-01-26 08:36:02 GMT] [277536]
+[77130000,05F000] C:\Windows\System32\WS2_32.dll [10.0.17763.1,2021-02-19 19:27:39 GMT] [384272]
+[57780000,14C000] C:\Program Files (x86)\Steam\gameoverlayrenderer.dll [4.93.26.78,2019-02-02 17:22:36 GMT] [1210144]
+[76550000,0FC000] C:\Windows\System32\ole32.dll [10.0.17763.134,0000-00-00 00:00:00 GMT] [1026992]
+[6DEF0000,011000] C:\Windows\system32\napinsp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [54784]
+[6DED0000,016000] C:\Windows\system32\pnrpnsp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [70656]
+[73630000,052000] C:\Windows\System32\mswsock.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [324408]
+[74570000,090000] C:\Windows\SYSTEM32\DNSAPI.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [580024]
+[75FF0000,007000] C:\Windows\System32\NSI.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [20144]
+[6FF50000,00B000] C:\Windows\System32\winrnr.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [23552]
+[6DEB0000,016000] C:\Windows\system32\NLAapi.dll [10.0.17763.134,1999-07-12 23:34:05 GMT] [70144]
+[6DEA0000,010000] C:\Windows\system32\wshbth.dll [10.0.17763.1,2005-07-01 05:01:12 GMT] [50688]
+[713F0000,051000] C:\Windows\System32\fwpuclnt.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [313856]
+[71450000,008000] C:\Windows\System32\rasadhlp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [12800]
+[77920000,019000] C:\Windows\System32\imagehlp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [95488]
+[734A0000,02F000] C:\Windows\system32\rsaenh.dll [10.0.17763.1,1970-09-11 00:05:11 GMT] [185608]
+[64450000,09C000] F:\Steam oficial\steamapps\common\Ring of Elysium\BugTrace.dll [6.2.7.54059,2018-11-15 02:43:01 GMT] [634120]
+[77B40000,053000] C:\Windows\System32\WLDAP32.dll [10.0.17763.1,2004-08-15 08:21:53 GMT] [321024]
+[6D210000,18F000] C:\Windows\SYSTEM32\dbghelp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [1522176]
+[6D1E0000,024000] C:\Windows\SYSTEM32\dbgcore.DLL [10.0.17763.1,1999-12-03 07:22:56 GMT] [132096]
+[578D0000,00A000] C:\Windows\SYSTEM32\netbios.dll [10.0.17763.1,2015-08-19 17:28:12 GMT] [15360]
+[73530000,07B000] C:\Windows\system32\uxtheme.dll [10.0.17763.1,2004-09-20 10:50:52 GMT] [481280]
+[10000000,68C000] F:\Steam oficial\steamapps\common\Ring of Elysium\TerSafe.dll [6.0.7.41487,2018-09-12 13:06:40 GMT] [6850000]
+[09E70000,12BB000] F:\Steam oficial\steamapps\common\Ring of Elysium\TenRPCS.dll [3.1.38.2,2018-12-03 13:28:46 GMT] [18947848]
+[74320000,0BD000] C:\Windows\SYSTEM32\WINHTTP.dll [10.0.17763.316,2014-06-06 23:28:11 GMT] [765960]
+[73860000,471000] C:\Windows\SYSTEM32\WININET.dll [11.0.17763.316,1988-12-04 08:47:48 GMT] [4627456]
+[75270000,00F000] C:\Windows\SYSTEM32\Wtsapi32.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [52864]
+[700B0000,00B000] C:\Windows\SYSTEM32\HID.dll [10.0.17763.1,2032-06-30 14:28:48 GMT] [28160]
+[728F0000,010000] C:\Windows\SYSTEM32\WKSCLI.DLL [10.0.17763.1,0000-00-00 00:00:00 GMT] [57816]
+[72AC0000,00B000] C:\Windows\SYSTEM32\NETUTILS.DLL [10.0.17763.1,2025-05-01 23:56:54 GMT] [37160]
+[0F510000,0D3000] F:\Steam oficial\steamapps\common\Ring of Elysium\FPSRpcs.dll [1.1.20.2,2018-12-12 09:29:45 GMT] [843016]
+[61FC0000,171000] C:\Windows\SYSTEM32\d3d9.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [1495248]
+[73500000,026000] C:\Windows\SYSTEM32\dwmapi.dll [10.0.17763.1,1978-01-23 10:53:42 GMT] [140288]
+[0B330000,289000] F:\Steam oficial\steamapps\common\Ring of Elysium\TenSLX.dll [2.2.1.43936,2015-09-08 08:36:42 GMT] [2635016]
+[61960000,22D000] C:\Windows\SYSTEM32\iertutil.dll [11.0.17763.292,2034-12-08 13:00:04 GMT] [2275888]
+[64360000,012000] C:\Windows\SYSTEM32\ondemandconnroutehelper.dll [10.0.17763.1,1995-04-10 10:29:31 GMT] [52224]
+[70830000,008000] C:\Windows\SYSTEM32\WINNSI.DLL [10.0.17763.1,1999-07-06 09:56:05 GMT] [28352]
+[61DE0000,1BC000] C:\Windows\SYSTEM32\urlmon.dll [11.0.17763.168,0000-00-00 00:00:00 GMT] [1762816]
+[0FBE0000,3A8000] F:\Steam oficial\steamapps\common\Ring of Elysium\TCJ.dll [3.0.8.1205,2019-01-14 13:53:52 GMT] [3815688]
+[0F760000,345000] F:\Steam oficial\steamapps\common\Ring of Elysium\PolicyProbe.dll [1.3.7.63300,2018-12-28 07:38:20 GMT] [3421448]
+[0F070000,0DB000] C:\Windows\SYSTEM32\RASAPI32.dll [10.0.17763.292,2017-07-03 11:20:38 GMT] [875008]
+[50090000,02B000] C:\Windows\SYSTEM32\rasman.dll [10.0.17763.292,0000-00-00 00:00:00 GMT] [156672]
+[70860000,023000] C:\Windows\SYSTEM32\DEVOBJ.dll [10.0.17763.1,2013-06-02 05:38:20 GMT] [135304]
+[708C0000,01E000] C:\Windows\SYSTEM32\gpapi.dll [10.0.17763.1,1996-09-05 10:35:18 GMT] [111024]
+[6D960000,026000] C:\Windows\System32\cryptnet.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [135680]
+[708A0000,014000] C:\Windows\SYSTEM32\dhcpcsvc.DLL [10.0.17763.1,2020-01-15 14:03:20 GMT] [69120]
+[0CD90000,079000] F:\Steam oficial\steamapps\common\Ring of Elysium\Animation.dll [1.3.7.63300,2018-12-28 07:37:56 GMT] [487104]
+[0DC60000,0A6000] F:\Steam oficial\steamapps\common\Ring of Elysium\apexframework_x86_vc15.dll [1.3.3.0,2018-11-01 08:52:49 GMT] [677024]
+[0F1D0000,1CA000] F:\Steam oficial\steamapps\common\Ring of Elysium\PhysX3Common_x86_vc15.dll [3.3.4.0,2018-10-31 13:31:02 GMT] [1867936]
+[50070000,015000] F:\Steam oficial\steamapps\common\Ring of Elysium\VCRUNTIME140.dll [14.0.24215.1,2016-08-26 05:37:11 GMT] [83792]
+[0D0B0000,075000] C:\Windows\SYSTEM32\webio.dll [10.0.17763.1,1978-03-25 18:58:33 GMT] [460288]
+[0DEC0000,073000] F:\Steam oficial\steamapps\common\Ring of Elysium\eugfesdkwrapper_vc15.dll [,2018-08-16 14:18:10 GMT] [456864]
+[0DD60000,03F000] F:\Steam oficial\steamapps\common\Ring of Elysium\d3dx11_43.dll [9.29.952.3111,2010-05-22 01:22:28 GMT] [248672]
+[0DF40000,1FF000] F:\Steam oficial\steamapps\common\Ring of Elysium\d3dx9_43.dll [9.29.952.3111,2010-05-22 01:21:17 GMT] [1998168]
+[0E140000,314000] F:\Steam oficial\steamapps\common\Ring of Elysium\GfeSDK.dll [1.1.201.0,2018-04-11 13:56:07 GMT] [3208488]
+[0E460000,06D000] F:\Steam oficial\steamapps\common\Ring of Elysium\MSVCP140.dll [14.0.24215.1,2016-08-26 05:37:22 GMT] [440120]
+[62140000,017000] C:\Windows\SYSTEM32\usp10.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [77824]
+[0E4D0000,2CC000] F:\Steam oficial\steamapps\common\Ring of Elysium\gcloudvoice.dll [1.1.17.172,2018-09-04 17:30:54 GMT] [2723488]
+[62F80000,080000] C:\Windows\SYSTEM32\DSOUND.dll [10.0.17763.1,2002-05-25 08:09:26 GMT] [497152]
+[0F3C0000,031000] F:\Steam oficial\steamapps\common\Ring of Elysium\physx3characterkinematic_x86_vc15.dll [3.3.4.0,2018-11-01 06:28:15 GMT] [198816]
+[0F020000,031000] F:\Steam oficial\steamapps\common\Ring of Elysium\physx3cooking_x86_vc15.dll [3.3.4.0,2018-11-01 06:28:15 GMT] [200352]
+[0E860000,2C6000] F:\Steam oficial\steamapps\common\Ring of Elysium\physx3_x86_vc15.dll [3.3.4.0,2018-11-01 06:28:35 GMT] [2886304]
+[0E7E0000,03B000] F:\Steam oficial\steamapps\common\Ring of Elysium\speedtreecore_windows_v6.3_vc15_mtdll.dll [,2019-01-02 11:12:51 GMT] [237216]
+[0ED80000,061000] F:\Steam oficial\steamapps\common\Ring of Elysium\speedtreeforest_windows_v6.3_vc15_mtdll.dll [,2019-01-02 11:12:57 GMT] [399008]
+[0EDF0000,0AD000] F:\Steam oficial\steamapps\common\Ring of Elysium\tag_releasedll_win32_vs2017.dll [,2018-08-18 06:12:01 GMT] [658592]
+[0EEA0000,06F000] F:\Steam oficial\steamapps\common\Ring of Elysium\speedtreerenderer_directx9_v6.3_vc15_mtdll.dll [,2019-01-02 11:13:07 GMT] [455840]
+[0EF20000,01D000] F:\Steam oficial\steamapps\common\Ring of Elysium\nvtt.dll [2.0.6.0,2009-04-17 15:11:55 GMT] [124184]
+[74420000,087000] C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9554_none_d08d6fa2442aa556\MSVCP80.dll [8.0.50727.9554,2018-08-08 03:07:57 GMT] [548864]
+[744B0000,09B000] C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9554_none_d08d6fa2442aa556\MSVCR80.dll [8.0.50727.9554,2018-08-08 03:06:49 GMT] [626688]
+[3A870000,03A000] F:\Steam oficial\steamapps\common\Ring of Elysium\steam_api.dll [4.28.51.7,2017-12-15 19:48:22 GMT] [227616]
+[548C0000,010000] C:\Windows\SYSTEM32\devrtl.DLL [10.0.17763.1,1988-01-12 22:24:02 GMT] [50688]
+[76050000,0FA000] C:\Windows\System32\COMDLG32.DLL [10.0.17763.1,1994-05-20 11:09:44 GMT] [993792]
+[72C40000,08E000] C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17763.316_none_588d019f78ae99a1\COMCTL32.dll [5.82.17763.316,0000-00-00 00:00:00 GMT] [569656]
+[70840000,013000] C:\Windows\SYSTEM32\dhcpcsvc6.DLL [10.0.17763.1,0000-00-00 00:00:00 GMT] [58368]
+[77410000,081000] C:\Windows\System32\clbcatq.dll [2001.12.10941.16384,0000-00-00 00:00:00 GMT] [515624]
+[09240000,031000] C:\Program Files\Steelseries\SS Audio\Foundation\SSAudioDevProps.dll [,2016-09-30 06:58:23 GMT] [178872]
+[77E60000,03F000] C:\Program Files\Steelseries\SS Audio\Foundation\SSAudioOSD.dll [,2016-09-30 06:58:12 GMT] [238776]
+[63170000,05E000] C:\Windows\System32\MMDevApi.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [366736]
+[63020000,110000] C:\Windows\SYSTEM32\AUDIOSES.DLL [10.0.17763.292,2000-11-24 17:06:32 GMT] [1098136]
+[69B00000,0DB000] C:\Windows\SYSTEM32\wintypes.dll [10.0.17763.1,1985-05-18 11:05:26 GMT] [902248]
+[6D990000,008000] C:\Windows\SYSTEM32\AVRT.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [27328]
+[092C0000,0CE000] F:\Steam oficial\steamapps\common\Ring of Elysium\GbSpy.dll [1.0.17.3952,2018-09-13 09:47:53 GMT] [554144]
+[63230000,C85000] C:\Program Files (x86)\Steam\steamclient.dll [4.93.26.78,2019-02-02 17:26:23 GMT] [12924704]
+[66060000,09A000] C:\Program Files (x86)\Steam\tier0_s.dll [4.93.26.78,2019-02-02 17:22:02 GMT] [318752]
+[66000000,05E000] C:\Program Files (x86)\Steam\vstdlib_s.dll [4.93.26.78,2019-02-02 17:22:27 GMT] [318752]
+[702F0000,00A000] C:\Windows\SYSTEM32\Secur32.dll [10.0.17763.1,1996-08-16 15:13:40 GMT] [23040]
+[09B40000,0C2000] C:\Program Files (x86)\Steam\steam.dll [,2019-02-02 17:21:36 GMT] [419104]
+[2FE30000,2C1000] C:\Program Files (x86)\Steam\Steam2.dll [2.0.2117.156,2014-02-14 01:58:39 GMT] [2882984]
+[5FC60000,021000] C:\Program Files (x86)\Steam\CSERHelper.dll [4.50.0.0,2006-01-28 03:30:28 GMT] [124440]
+[09700000,011000] C:\Windows\SYSTEM32\rtutils.dll [10.0.17763.1,2004-11-14 06:01:17 GMT] [52224]
+[6B940000,44A000] C:\Windows\SYSTEM32\nvapi.dll [25.21.14.1881,2019-01-30 19:37:29 GMT] [4296808]
+[6D9A0000,0A4000] C:\Windows\SYSTEM32\dxgi.dll [10.0.17763.1,1987-09-12 03:39:42 GMT] [661096]
+[24FA0000,1A9000] F:\Steam oficial\steamapps\common\Ring of Elysium\APEX_Destructible_x86_vc15.dll [1.3.3.0,2018-11-01 08:52:51 GMT] [1703584]
+[60F10000,0C7000] C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_4aa19ae78d94d8a3\nvldumd.dll [25.21.14.1881,2019-01-30 19:47:28 GMT] [799568]
+[536E0000,10CD000] C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_4aa19ae78d94d8a3\nvd3dum.dll [25.21.14.1881,2019-01-30 19:40:02 GMT] [17824416]
+[50410000,22F000] C:\Windows\system32\nvspcap.dll [3.16.0.140,2018-12-05 14:21:54 GMT] [2264968]
+[713C0000,029000] C:\Windows\SYSTEM32\ntmarta.dll [10.0.17763.1,1977-10-26 02:51:34 GMT] [153408]
+[6B2C0000,0FC000] C:\Program Files (x86)\NVIDIA Corporation\NvContainer\libprotobuf.dll [,2018-03-08 07:59:27 GMT] [1033096]
+[6B180000,135000] C:\Program Files (x86)\NVIDIA Corporation\NvContainer\libeay32.dll [1.0.2.15,2018-04-20 10:03:03 GMT] [1257864]
+[6AD00000,049000] C:\Program Files (x86)\NVIDIA Corporation\NvContainer\ssleay32.dll [1.0.2.15,2018-04-20 10:03:21 GMT] [298376]
+[6AD50000,3DF000] C:\Program Files (x86)\NVIDIA Corporation\NvContainer\poco.dll [1.7.9.2,2018-03-12 17:19:59 GMT] [4063112]
+[6D6B0000,011000] C:\Program Files (x86)\NVIDIA Corporation\NvContainer\PocoInitializer.dll [1.12.2459.9394,2018-07-28 04:46:27 GMT] [75144]
+[6B130000,041000] C:\Program Files (x86)\NVIDIA Corporation\NvContainer\MessageBus.dll [1.12.2459.9394,2018-07-28 04:46:45 GMT] [270216]
+[77940000,13D000] C:\Windows\System32\MSCTF.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [1296552]
+[70650000,043000] C:\Windows\SYSTEM32\WINSTA.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [256704]
+[25C90000,0AA000] C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPI.dll [7.17.14.1881,2019-01-30 20:03:41 GMT] [641416]
+[66F30000,15F000] C:\Windows\SYSTEM32\dcomp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [1427600]
+[66CF0000,086000] C:\Windows\System32\TextInputFramework.dll [10.0.17763.1,2024-11-07 15:11:31 GMT] [542504]
+[69BE0000,26A000] C:\Windows\System32\CoreUIComponents.dll [10.0.17763.1,2015-09-24 02:11:57 GMT] [2538768]
+[6A000000,08F000] C:\Windows\System32\CoreMessaging.dll [10.0.17763.194,2032-11-24 05:32:14 GMT] [582240]
+[35B70000,207000] F:\Steam oficial\steamapps\common\Ring of Elysium\D3DCompiler_43.dll [9.29.952.3111,2010-05-22 01:24:09 GMT] [2106216]
+[0FBC0000,00E000] F:\Steam oficial\steamapps\common\Ring of Elysium\teniocc.dll [,2008-04-25 01:21:56 GMT] [61160]
+[64350000,008000] C:\Windows\SYSTEM32\DPAPI.DLL [10.0.17763.1,0000-00-00 00:00:00 GMT] [13312]
+[5B8F0000,5DD000] F:\Steam oficial\steamapps\common\Ring of Elysium\OculusSpatializerWwise.dll [1.0.3.0,2018-10-12 07:28:03 GMT] [6118560]
+[4FAB0000,073000] C:\Windows\System32\schannel.dll [10.0.17763.1,1972-04-25 03:07:33 GMT] [447488]
+[61840000,010000] C:\Windows\SYSTEM32\mskeyprotect.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [49152]
+[61DB0000,022000] C:\Windows\SYSTEM32\ncrypt.dll [10.0.17763.1,1991-12-30 19:35:11 GMT] [127592]
+[61B90000,02C000] C:\Windows\SYSTEM32\NTASN1.dll [10.0.17763.1,2005-02-03 17:57:04 GMT] [177312]
+[0FFE0000,01F000] C:\Windows\system32\ncryptsslp.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [115880]
+[54A40000,225000] F:\Steam oficial\steamapps\common\Ring of Elysium\ProtocalHandler.dll [2.1.9.2,2017-03-20 11:52:08 GMT] [1678056]
+[547B0000,0BF000] F:\Steam oficial\steamapps\common\Ring of Elysium\MSVCR100.dll [10.0.40219.1,2011-02-19 00:17:38 GMT] [773968]
+[53660000,069000] F:\Steam oficial\steamapps\common\Ring of Elysium\MSVCP100.dll [10.0.40219.1,2011-02-19 00:18:09 GMT] [421200]
+[12280000,003000] C:\Windows\SYSTEM32\XAudio2_8.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [3072]
+[5FB90000,090000] C:\Windows\SYSTEM32\xaudio2_9.DLL [10.0.17763.1,1990-03-18 18:24:46 GMT] [559616]
+[24E90000,00E000] C:\Windows\SYSTEM32\resourcepolicyclient.dll [10.0.17763.1,1998-03-28 02:02:47 GMT] [49560]
+[24CE0000,0EB000] C:\Windows\System32\Windows.UI.dll [10.0.17763.168,1978-12-23 10:38:20 GMT] [964976]
+[6A090000,091000] C:\Windows\System32\InputHost.dll [,0000-00-00 00:00:00 GMT] [591840]
+[69E50000,1A3000] C:\Windows\System32\twinapi.appcore.dll [10.0.17763.292,2023-12-05 01:03:11 GMT] [1720936]
+[695F0000,508000] C:\Windows\System32\d2d1.dll [10.0.17763.1,2026-02-20 01:26:05 GMT] [5309288]
+[6A130000,229000] C:\Windows\System32\d3d11.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [2264344]
+[6D690000,01E000] C:\Windows\System32\RMCLIENT.dll [10.0.17763.194,0000-00-00 00:00:00 GMT] [114344]
+[63130000,03A000] C:\Windows\SYSTEM32\wdmaud.drv [10.0.17763.1,1974-07-04 06:33:55 GMT] [215040]
+[6D040000,007000] C:\Windows\SYSTEM32\ksuser.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [20120]
+[65FB0000,00A000] C:\Windows\SYSTEM32\msacm32.drv [10.0.17763.1,2001-07-24 10:40:17 GMT] [23552]
+[63000000,019000] C:\Windows\SYSTEM32\MSACM32.dll [10.0.17763.1,2019-06-29 20:41:42 GMT] [93984]
+[65DE0000,008000] C:\Windows\SYSTEM32\midimap.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [18944]
+[6D750000,20F000] C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.316_none_4d6272b91b9b6fbc\comctl32.dll [6.10.17763.316,0000-00-00 00:00:00 GMT] [2148664]
+[57D60000,171000] C:\Windows\SYSTEM32\WindowsCodecs.dll [10.0.17763.55,2024-08-19 02:51:44 GMT] [1520208]
+[58350000,0D4000] C:\Windows\SYSTEM32\MrmCoreR.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [864624]
+[57FA0000,06F000] C:\Windows\SYSTEM32\policymanager.dll [10.0.17763.168,1991-08-28 10:30:24 GMT] [451072]
+[58010000,067000] C:\Windows\SYSTEM32\msvcp110_win.dll [10.0.17763.1,0000-00-00 00:00:00 GMT] [414968]
+[65FC0000,037000] C:\Windows\SYSTEM32\dinput8.dll [10.0.17763.1,2023-03-22 13:13:45 GMT] [173568]
+
+ThirdPartyModules:
+C:\Program Files (x86)\Steam\gameoverlayrenderer.dll,Copyright (C) 2007,Valve
+F:\Steam oficial\steamapps\common\Ring of Elysium\GfeSDK.dll,(C) 2017 NVIDIA Corporation. All rights reserved.,NVIDIA Corporation
+F:\Steam oficial\steamapps\common\Ring of Elysium\nvtt.dll,Copyright (C) 2007,Epic Games Inc.
+F:\Steam oficial\steamapps\common\Ring of Elysium\steam_api.dll,Copyright (C) 2007,Valve
+C:\Program Files\Steelseries\SS Audio\Foundation\SSAudioDevProps.dll,,A-Volute
+C:\Program Files\Steelseries\SS Audio\Foundation\SSAudioOSD.dll,,A-Volute
+C:\Program Files (x86)\Steam\steamclient.dll,Copyright (C) 2005 Valve Corporation,Valve
+C:\Program Files (x86)\Steam\tier0_s.dll,Copyright (C) 2007,Valve
+C:\Program Files (x86)\Steam\vstdlib_s.dll,Copyright (C) 2005 Valve Corporation,Valve
+C:\Program Files (x86)\Steam\steam.dll,,Valve
+C:\Program Files (x86)\Steam\Steam2.dll,© Copyright 2000-2003 Valve Corporation All rights reserved.,Valve
+C:\Program Files (x86)\Steam\CSERHelper.dll,Copyright (c) Valve Corporation,Valve
+C:\Windows\system32\nvspcap.dll,(C) NVIDIA Corporation. All rights reserved.,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\NvContainer\libprotobuf.dll,,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\NvContainer\libeay32.dll,Copyright  © 1998-2005 The OpenSSL Project. Copyright © 1995-1998 Eric A. Young, Tim J. Hudson. All rights reserved.,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\NvContainer\ssleay32.dll,Copyright  © 1998-2005 The OpenSSL Project. Copyright © 1995-1998 Eric A. Young, Tim J. Hudson. All rights reserved.,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\NvContainer\poco.dll,Copyright (C) 2004-2017, Applied Informatics Software Engineering GmbH and Contributors.,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\NvContainer\PocoInitializer.dll,(C) 2016 NVIDIA Corporation. All rights reserved.,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\NvContainer\MessageBus.dll,(C) 2016 NVIDIA Corporation. All rights reserved.,NVIDIA Corporation
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPI.dll,(C) 2019 NVIDIA Corporation. All rights reserved.,NVIDIA Corporation
+
+-----------------------------------------------------------------------------------------------------------
+Windows:
+TopLevelHwnd0001081C:08280028,94000000,00000000,00000000,00010814,00000000,26CF44FC,00000000,00000000,00000000,    D3DProxyWindow,D3DProxyWindow
+TopLevelHwnd00010814:00000008,16000000,00000000,00400000,00000000,00000000,00000000,00000000,00000000,00000000,    GEMAINWINDOWCLASS,Ring of Elysium
+TopLevelHwnd00030852:00000100,04C00000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,    Static,TerSafeDataTransWindow
+TopLevelHwnd00010828:00000100,04C00000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,    Static,
+TopLevelHwnd0001081A:00000008,8C000000,00000000,00000000,00010816,00000000,00000000,26A656A8,00000000,00000000,    MSCTFIME UI,MSCTFIME UI
+TopLevelHwnd00010816:00000008,8C000000,00000000,00400000,00010814,00000000,00000000,00000000,00000000,00000000,    IME,Default IME
+TopLevelHwnd0001081E:00000008,8C000000,00000000,00000000,0001081C,00000000,00000000,00000000,00000000,00000000,    IME,Default IME
+TopLevelHwnd00070854:00000000,8C000000,00000000,00000000,00030852,00000000,00000000,00000000,00000000,00000000,    IME,Default IME
+
+-----------------------------------------------------------------------------------------------------------
+
+Crash Signature: FF53A0DE1757983F88788D1FA80B7142
